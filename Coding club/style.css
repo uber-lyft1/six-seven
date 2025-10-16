@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(198, 198, 198);
+
+}
+
+nav{
+    background-color: rgb(17, 66, 145);
+    padding: 15px;
+
+}
+
+#navbutton{
+    padding: 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+
+}
+
+a:hover{
+    background-color: rgb(76, 159, 255);
+
+}
+
+h1{
+    
+    font-size: 50px;
+    color:rgb(3, 17, 123)
+}

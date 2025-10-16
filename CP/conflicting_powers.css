@@ -1,0 +1,62 @@
+*{
+    background-color:rgb(104, 104, 104);
+    margin: 0px;
+}
+
+
+body{
+    overflow: hidden;
+}
+
+
+#canvas{
+    border:1px;
+    background-color: black;
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#scoreboard_red{
+    background-color: transparent;
+    display: block;
+    position: absolute;
+    bottom: 60px;
+    left: 93.7%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color:red;
+}
+
+
+#scoreboard_blue{
+    display: block;
+    position: absolute;
+    bottom: 110px;
+    left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color:blue;
+    background-color: transparent;
+}
+
+
+div{
+    display: none;
+}
+
+
+#restartButton
+{
+    display:none;
+    position: absolute;
+    margin: 550;
+    left: 46%;
+    bottom: 52%;
+}
+
+
+
+
